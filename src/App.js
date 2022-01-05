@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://scheduler-9a730.web.app"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
